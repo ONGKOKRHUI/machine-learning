@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning Engineering Roadmap! This repository contains the learning materials, code implementations, and video presentations for a comprehensive 15-week journey from statistical learning foundations to advanced theory and deployment.
 
-📺 **[Full YouTube Playlist](https://www.youtube.com/playlist?list=PLDzmO8lC2PBSPKNt2B12r2pGmsX7y3BlS)**
+📺 **[Full YouTube Playlist](https://www.youtube.com/playlist?list=PLDzmO8lC2PBSPKNt2B12r2pGmsX7y3BlS)** 
 
 ## 🗺️ Phase 1: Foundations of Statistical Learning
 
